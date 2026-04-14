@@ -2,3 +2,6 @@ QA_Manual_30_01
 
 Hi Barbie
 Hi Ken
+
+I'm a Barbie girl
+In a Barbie world

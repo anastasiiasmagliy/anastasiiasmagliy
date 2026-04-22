@@ -9,9 +9,10 @@ padding: 10px;
   background-color: #dedbd2;
   color: #4a5759;
   text-align: center;
-  padding: 0px;
+  padding:0%;
   }
 
   table, th, td {
   border: 1px solid;
+  border-color: #4a5759;
 }

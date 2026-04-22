@@ -1,9 +1,4 @@
-p {
 
-color: #4a5759;
-text-align: center;
-padding: 10px;
-}
 
   #menu {
   background-color: #dedbd2;
@@ -15,4 +10,7 @@ padding: 10px;
   table, th, td {
   border: 1px solid;
   border-color: #4a5759;
+  color: #4a5759;
+text-align: center;
+padding: 10px;
 }

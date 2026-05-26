@@ -21,7 +21,6 @@
   line-height: 24px;
   min-width: 140px;
   outline: 0;
-  padding: 0 17px;
   text-align: center;
   text-decoration: none;
   transition: all .3s;
@@ -83,7 +82,7 @@
   border: 1px solid;
   border-color: #4a5759;
   color: #000000;
-text-align: center;
+text-align:justify;
 padding: 10px;
 background-color:#f7e1d7;
  border-collapse: collapse;

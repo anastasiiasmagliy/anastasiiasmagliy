@@ -12,6 +12,7 @@
 }
 
 ul.menu li a {
+  list-style-type: none;
   display: block;
   color: #f1f1f1;
   padding: 14px 16px;

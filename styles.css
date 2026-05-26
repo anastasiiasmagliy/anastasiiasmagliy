@@ -38,14 +38,14 @@ background-color: rgb(2, 215, 48);
   vertical-align: middle;
 }
 
-.button-24:hover,
-.button-24:active {
+.button:hover,
+.button:active {
   background-color: initial;
   background-position: 0 0;
   color: #FF4742;
 }
 
-.button-24:active {
+.button:active {
   opacity: .5;
 }
 

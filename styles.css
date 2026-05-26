@@ -110,7 +110,7 @@ background-color:#f7e1d7;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-.main-text-contacts {
+#main-text-contacts {
 
 position: absolute;
 float: right;
@@ -126,7 +126,7 @@ display:grid;
 
 }
 
-#text_contacts {
+.text_contacts {
 
 float:left;
 margin-bottom: 10px;

@@ -156,7 +156,7 @@ background-color: #ab1111;
     float: right; /* Прижимает картинку к левому краю */
   margin-right: 15px; /* Отступ справа от текста */
   margin-bottom: 10px; /* Отступ снизу (если текст перейдет на новую строку) */
-  width: 150px;
+  width: 100px;
 }
 
 

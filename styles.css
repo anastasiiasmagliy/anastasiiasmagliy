@@ -1,7 +1,7 @@
 
 .button-59 {
   position: absolute;
-  top: 100%; 
+  top: 110%; 
   left: 5%;
   z-index: 1; 
   align-items: center;
@@ -135,7 +135,7 @@ position: relative;
 position: absolute;
 right:0;
 margin: 10px;
-width: 150px;
+width: auto;
 
 }
 

@@ -108,8 +108,8 @@ background-color:#f7e1d7;
     margin-color: #4a5759;
 }
 
-#main-text-contacts {
-  float: left;
+.main-text-contacts {
+  float: right;
 background-color: #d34807;
 text-align: center;
 

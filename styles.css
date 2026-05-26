@@ -109,8 +109,7 @@ background-color:#f7e1d7;
     margin-color: #4a5759;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-
-.main-text-contacts {
+#main-text-contacts {
 
 background-color:  #d34807;
 background-attachment: fixed;

@@ -110,6 +110,9 @@ background-color:#f7e1d7;
     box-shadow:
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;
+font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px;
+  padding:5px;
 }
 
 .myHeader a:hover {

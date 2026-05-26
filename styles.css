@@ -26,6 +26,7 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
   
 }
 
@@ -91,7 +92,6 @@ background-color:#f7e1d7;
 
 
 #myHeader {
-  rotate: 0deg;
   background-color: #f7e1d7;
    color: #000000;
   text-align: center;

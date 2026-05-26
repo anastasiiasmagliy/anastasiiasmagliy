@@ -108,7 +108,7 @@ background-color:#f7e1d7;
   border: 10px solid #dedbd2;
     padding: 30px;
     margin-color: #4a5759;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Lucida Console", "Courier New", monospace, bold;
 }
 
 .main-text-contacts {

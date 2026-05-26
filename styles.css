@@ -1,51 +1,51 @@
 
-.button-56 {
+.button-59 {
   align-items: center;
-  background-color: #fee6e3;
-  border: 2px solid #111;
-  border-radius: 8px;
+  background-color: #fff;
+  border: 2px solid #000;
   box-sizing: border-box;
-  color: #111;
+  color: #000;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
+  fill: #000;
   font-family: Inter,sans-serif;
   font-size: 16px;
+  font-weight: 600;
   height: 48px;
   justify-content: center;
+  letter-spacing: -.8px;
   line-height: 24px;
-  max-width: 100%;
-  padding: 0 25px;
-  position: relative;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
   text-align: center;
   text-decoration: none;
+  transition: all .3s;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
 }
 
-.button-56:after {
-  background-color: #111;
-  border-radius: 8px;
-  content: "";
-  display: block;
-  height: 48px;
-  left: 0;
-  width: 100%;
-  position: absolute;
-  top: -2px;
-  transform: translate(8px, 8px);
-  transition: transform .2s ease-out;
-  z-index: -1;
+.button-59:focus {
+  color: #171e29;
 }
 
-
-.button-56:active {
-  background-color: #ffdeda;
-  outline: 0;
+.button-59:hover {
+  border-color: #06f;
+  color: #06f;
+  fill: #06f;
 }
 
-.button-56:hover {
-  outline: 0;
+.button-59:active {
+  border-color: #06f;
+  color: #06f;
+  fill: #06f;
+}
+
+@media (min-width: 768px) {
+  .button-59 {
+    min-width: 170px;
+  }
 }
 
 
@@ -93,7 +93,7 @@ background-color:#f7e1d7;
 #myHeader {
   rotate: 0deg;
   background-color: #f7e1d7;
-   color: #4a5759;
+   color: #000000;
   text-align: center;
   border: 10px solid #dedbd2;
     padding: 30px;

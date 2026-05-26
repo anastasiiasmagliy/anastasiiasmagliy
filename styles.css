@@ -145,8 +145,14 @@ background-color: #ab1111;
 }*/
 
 
+
+
 .float-container {
-position: absolute;
+    float: left; /* Прижимает картинку к левому краю */
+  margin-right: 15px; /* Отступ справа от текста */
+  margin-bottom: 10px; /* Отступ снизу (если текст перейдет на новую строку) */
+  width: 150px;
+  position: absolute;
 float: right;
 right: 20px;
 left: 20%;
@@ -156,13 +162,6 @@ font-family: "Lucida Console", "Courier New", monospace;
 margin-left: 20%;
 margin-right: 1%;
 border-radius: 12px;
-}
-
-.float-container img {
-    float: left; /* Прижимает картинку к левому краю */
-  margin-right: 15px; /* Отступ справа от текста */
-  margin-bottom: 10px; /* Отступ снизу (если текст перейдет на новую строку) */
-  width: 150px;
 }
 
 

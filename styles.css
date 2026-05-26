@@ -133,8 +133,8 @@ position: relative;
 .contacts_image {
 
 position: absolute;
-right:0;
-margin: 10px;
+left:0;
+margin: 90px;
 width: auto;
 
 }

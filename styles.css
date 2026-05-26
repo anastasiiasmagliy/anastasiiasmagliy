@@ -112,11 +112,12 @@ background-color:#f7e1d7;
 
 #main-text-contacts {
 
-position: relative;
+position: absolute;
 float: right;
+right: 0;
 padding: 10px;
 background-color: #ab1111;
-
+font-family: "Lucida Console", "Courier New", monospace;
 
 
 }

@@ -149,6 +149,7 @@ background-color: #ab1111;
 .float-container h3 {
 
 float: right;
+text-align: center;
 
 }
 
@@ -175,4 +176,4 @@ margin-left: 20%;
   box-shadow:
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
-}
+

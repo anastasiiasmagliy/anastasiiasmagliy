@@ -128,7 +128,7 @@ display:grid;
 
 
 .block {
-  position: absolute;
+  position: relative;
 }
 
 .text_contacts {

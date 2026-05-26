@@ -127,13 +127,11 @@ border-radius: 12px;
 
 #text_contacts {
 
-float: left;
 position: relative;
 }
 
 #contacts_image {
 
-float: right;
 position: absolute;
 right:0;
 }

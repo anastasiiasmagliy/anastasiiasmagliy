@@ -27,8 +27,8 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   box-shadow:
-  rgba(133, 0, 53, 0.48) 6px 2px 16px 0px,
-   rgba(236, 31, 164, 0.8) -6px -2px 16px 0px;
+rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
+rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
   
 }
 
@@ -58,8 +58,9 @@
   float: left;
   position: relative;
   font-family: "Lucida Console", "Courier New", monospace;
-box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
-}
+box-shadow:
+rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
+rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
 
 .topnav  a {
 

@@ -51,7 +51,7 @@
   padding: 0;
   background-color: #f7e1d7;
   float: left;
-  position: center;
+  position: relative;
   font-family: "Lucida Console", "Courier New", monospace;
 
 }

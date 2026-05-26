@@ -121,14 +121,14 @@ font-family: "Lucida Console", "Courier New", monospace;
 margin-left: 20%;
 margin-right: 1%;
 border-radius: 12px;
-
+display: inline;
 }
 
 
 .text_contacts {
 
 margin-bottom: 10px;
-display: inline;
+
 }
 
 .contacts_image {

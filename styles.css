@@ -131,7 +131,7 @@ position: relative;
 float:left;
 }
 
-#contacts_image {
+.contacts_image {
 
 position: absolute;
 right:0;

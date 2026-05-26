@@ -3,14 +3,14 @@
   text-align: center;
   padding:50px;} *//
 
-  ul.menu {
+  ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   position: relative;
 }
 
-ul.menu li a {
+ul.topnav li a {
   list-style-type: none;
   list-style: none;
   display: block;
@@ -20,7 +20,7 @@ ul.menu li a {
   background-color: #0f0c0c;
 }
 
-ul.menu li a:hover {
+ul.topnav li a:hover {
   background-color: #f1f1f1;
   color: black;
   }

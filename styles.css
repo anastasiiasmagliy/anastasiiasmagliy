@@ -62,7 +62,6 @@ rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;
 
 border-radius: 12px;
-position:fixed;
 
 }
 
@@ -97,7 +96,6 @@ padding:10px;
 background-color:#f7e1d7;
  border-collapse: collapse;
  writing-mode: horizontal-tb;
-left: 50px;
 
 }
 

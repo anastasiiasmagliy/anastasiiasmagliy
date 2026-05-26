@@ -36,11 +36,6 @@
   fill: #88e713;
 }
 
-.button-59:active {
-  border-color: #a90505;
-  color: #a90505;
-  fill: #a90505;
-}
 
 @media (min-width: 768px) {
   .button-59 {

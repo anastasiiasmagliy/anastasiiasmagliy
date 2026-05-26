@@ -34,9 +34,9 @@
 }
 
 .button-59:hover {
-  border-color: #12ea64;
-  color: #39f101;
-  fill: #88e713;
+  border-color: #a90505;
+  color: #a90505;
+  fill: #a90505;
 }
 
 
@@ -49,7 +49,7 @@
 
 
 .topnav {
-  left: 5%;
+  margin: 50px;
   padding: 0;
   background-color: #f7e1d7;
   float: left;
@@ -81,12 +81,11 @@
   border: 1px solid;
   border-color: #4a5759;
   color: #000000;
-text-align:start;
-padding: 10px;
+text-align:inherit;
+padding: 50%;
 background-color:#f7e1d7;
  border-collapse: collapse;
-left: 5%;
-right: 5%;
+
 }
 
 #myHeader {

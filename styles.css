@@ -50,14 +50,14 @@ background-color:#f7e1d7;
 
 #main-text-contacts {
   float: left;
-
-
+background-color: #f7e1d7;
+text-align: center;
 
 
 
 }
 
-#footer {
+.footer {
 
 background-color: #ab1111;
   text-align: center;

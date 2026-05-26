@@ -14,14 +14,14 @@
 
 ul.menu li a {
   list-style-type: none;
-  display: flex;
+  display: block;
   color: #f1f1f1;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul.menu li a:hover {
-  background-color: #dddddd;
+  background-color: #a11313;
   color: black;
   }
 

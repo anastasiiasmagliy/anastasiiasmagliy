@@ -16,6 +16,7 @@ ul.menu li a {
   color: #a90505;
   padding: 14px 16px;
   text-decoration: none;
+  background-color: #0f0c0c;
 }
 
 ul.menu li a:hover {

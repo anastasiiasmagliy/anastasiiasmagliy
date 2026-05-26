@@ -13,7 +13,7 @@ background-color: rgb(2, 215, 48);
 } */
 
 
-.button {
+.button-24 {
   background: #FF4742;
   border: 1px solid #FF4742;
   border-radius: 6px;
@@ -38,14 +38,14 @@ background-color: rgb(2, 215, 48);
   vertical-align: middle;
 }
 
-.button:hover,
-.button:active {
+.button-24:hover,
+.button-24:active {
   background-color: initial;
-  background-position: 0 0;
+  background-position: 0;
   color: #FF4742;
 }
 
-.button:active {
+.button-24:active {
   opacity: .5;
 }
 

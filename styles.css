@@ -110,8 +110,9 @@ background-color:#f7e1d7;
 
 .main-text-contacts {
 
-padding-left: 50%;
+padding-left: 50px;
 background-color:  #d34807;
+background-attachment: fixed;
 text-align: center;
 
 

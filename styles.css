@@ -166,7 +166,7 @@ right: 20px;
 background-color: #f7e1d7;
 border-radius: 12px;
 font-family: "Lucida Console", "Courier New", monospace;
-font-size: 18px;
+font-size: auto;
 padding: 10px;
 margin-left: 30px;
 margin-top: 40px;

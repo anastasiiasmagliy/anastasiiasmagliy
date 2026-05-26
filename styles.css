@@ -6,7 +6,7 @@
   z-index: 1; 
   align-items: center;
   background-color: #ffffff;
-  border: 2px solid #ffffff;
+  border: 2px solid #000000;
   box-sizing: border-box;
   color: #000;
   cursor: pointer;
@@ -83,10 +83,10 @@ table th, td {
   border-color: #4a5759;
   color: #000000;
 text-align:center;
-padding:10px
-padding: 0px;
+padding:10px;
 background-color:#f7e1d7;
  border-collapse: collapse;
+ font-family: "Lucida Console", "Courier New", monospace;
 
 }
 

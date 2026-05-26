@@ -125,6 +125,19 @@ border-radius: 12px;
 
 }
 
+#text_contacts {
+
+float: left;
+
+}
+
+#contacts_image {
+
+float: right;
+
+}
+
+
 .footer {
 
 background-color: #ab1111;

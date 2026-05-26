@@ -148,10 +148,7 @@ background-color: #ab1111;
 .float-container h3 {
 
 float: right;
-text-align: center;
-justify-content: center; /* Centers horizontally */
-align-items: center;
-padding-top: 50%;
+
 }
 
 .float-container img {
@@ -180,8 +177,8 @@ text-align: center;
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;
 
-
-
+justify-content: center;
+align-items: center;
 
 }
 

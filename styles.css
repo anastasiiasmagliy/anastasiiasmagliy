@@ -126,6 +126,11 @@ display:grid;
 
 }
 
+
+.block {
+  position: right;
+}
+
 .text_contacts {
 
 float:left;

@@ -162,7 +162,7 @@ border: 4px #a90505;
 .float-container {
 
   position: absolute;
-margin-right: 20px;
+right: 20px;
 background-color: #f7e1d7;
 border-radius: 12px;
 font-family: "Lucida Console", "Courier New", monospace;

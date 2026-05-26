@@ -112,7 +112,7 @@ background-color:#f7e1d7;
 
 #main-text-contacts {
 
-position: absolute;
+position: relative;
 float: right;
 right: 0;
 padding: 10px;
@@ -128,7 +128,7 @@ display:grid;
 
 
 .block {
-  position: right;
+  position: absolute;
 }
 
 .text_contacts {

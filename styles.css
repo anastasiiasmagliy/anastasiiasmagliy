@@ -144,7 +144,6 @@ background-color: #ab1111;
 
 }*/
 
-
 .float-container img {
   float: left; 
   width: 200px;
@@ -164,8 +163,8 @@ border-radius: 12px;
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;
 color: #d20f0f;
-    font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 18px;
+font-family: "Lucida Console", "Courier New", monospace;
+font-size: 18px;
 padding: 20px;
 margin: 40px;
 margin-left: 20%;

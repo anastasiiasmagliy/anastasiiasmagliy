@@ -128,7 +128,8 @@ display:grid;
 
 
 .block {
-  position: left;
+  position: absolute;
+  float:right;
 }
 
 .text_contacts {

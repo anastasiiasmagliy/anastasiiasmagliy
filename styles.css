@@ -6,11 +6,11 @@
   z-index: 1; 
   align-items: center;
   background-color: #ffffff;
-  border: 2px solid #000000;
+  border: 0.5px solid #ffffff;
   box-sizing: border-box;
-  color: #000;
+  color: #a90505;
   cursor: pointer;
-  fill: #000;
+  fill: #a90505;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 16px;
   font-weight: 600;
@@ -37,9 +37,9 @@ rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
 }
 
 .button-59:hover {
-  border-color: #a90505;
-  color: #a90505;
-  fill: #a90505;
+  border-color: #ffffff;
+  color: #000000;
+  fill: #000000;
 }
 
 
@@ -77,8 +77,8 @@ rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
   }
 
 .topnav a.active {
-  background-color: #dedbd2;
-  color: rgb(255, 255, 255);
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
 }
 
 

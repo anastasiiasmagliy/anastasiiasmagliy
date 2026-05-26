@@ -19,5 +19,11 @@ background-color:#f7e1d7;
 
 #myHeader {
   rotate: 0deg;
+  background-color: #f7e1d7;
+  color: #4a5759;
+  text-align: center;
+  border: 10px solid #dedbd2;
+    padding: 30px;
+    margin-color: #4a5759;
 }
 

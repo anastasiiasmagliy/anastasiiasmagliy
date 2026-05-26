@@ -149,6 +149,12 @@ background-color: #ab1111;
   display: flex; /* Включаем Flexbox */
   align-items: center; /* Выравнивает текст и картинку строго по центру вертикали */
   gap: 15px; /* Создает отступ между картинкой и текстом */
+  padding: 10px;
+background-color: #f7e1d7;
+font-family: "Lucida Console", "Courier New", monospace;
+margin-left: 20%;
+margin-right: 1%;
+border-radius: 12px;
 }
 
 /* Ограничиваем размер картинки, чтобы она не была слишком большой */

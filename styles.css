@@ -38,9 +38,6 @@
   z-index: -1;
 }
 
-.button-56:hover:after {
-  transform: translate(0, 0);
-}
 
 .button-56:active {
   background-color: #ffdeda;
@@ -51,11 +48,6 @@
   outline: 0;
 }
 
-@media (min-width: 768px) {
-  .button-56 {
-    padding: 0 40px;
-  }
-}
 
 
 .topnav {

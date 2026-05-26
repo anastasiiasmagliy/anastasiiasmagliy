@@ -168,8 +168,8 @@ border-radius: 12px;
 font-family: "Lucida Console", "Courier New", monospace;
 font-size: 18px;
 padding: 10px;
-margin-left: 40px;
-margin-top: 40px;
+left: 30px;
+top: 40px;
   box-shadow:
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;

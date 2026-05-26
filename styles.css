@@ -148,7 +148,9 @@ background-color: #ab1111;
 
 float: right;
 text-align: center;
-padding: 40%;
+display: flex;
+align-items: center;
+
 }
 
 .float-container img {

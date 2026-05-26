@@ -110,7 +110,7 @@ background-color:#f7e1d7;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-#main-text-contacts {
+//* #main-text-contacts {
 
 position: absolute;
 float: right;
@@ -142,6 +142,19 @@ background-color: #ab1111;
 
 
 
+}*/
+
+
+.main-text-contacts {
+  display: flex; /* Включаем Flexbox */
+  align-items: center; /* Выравнивает текст и картинку строго по центру вертикали */
+  gap: 15px; /* Создает отступ между картинкой и текстом */
+}
+
+/* Ограничиваем размер картинки, чтобы она не была слишком большой */
+.main-text-contacts img {
+  width: 100px;
+  height: auto;
 }
 
 

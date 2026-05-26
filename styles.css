@@ -126,7 +126,7 @@ display:grid;
 
 }
 
-.text_contacts {
+#text_contacts {
 
 float:left;
 margin-bottom: 10px;

@@ -6,8 +6,9 @@
   z-index: 1; 
   align-items: center;
   background-color: #ffffff;
-  border: 0.5px solid #ffffff;
+  border: 0.5px solid #a90505;
   box-sizing: border-box;
+  border-radius: 12px;
   color: #a90505;
   cursor: pointer;
   fill: #a90505;

@@ -145,14 +145,14 @@ background-color: #ab1111;
 }*/
 
 
-.main-text-contacts {
+.float-container {
   display: flex; /* Включаем Flexbox */
   align-items: center; /* Выравнивает текст и картинку строго по центру вертикали */
   gap: 15px; /* Создает отступ между картинкой и текстом */
 }
 
 /* Ограничиваем размер картинки, чтобы она не была слишком большой */
-.main-text-contacts img {
+.float-container img {
     float: right; /* Прижимает картинку к левому краю */
   margin-right: 15px; /* Отступ справа от текста */
   margin-bottom: 10px; /* Отступ снизу (если текст перейдет на новую строку) */

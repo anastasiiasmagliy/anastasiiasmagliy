@@ -121,7 +121,7 @@ font-family: "Lucida Console", "Courier New", monospace;
 margin-left: 20%;
 margin-right: 1%;
 border-radius: 12px;
-display: block;
+display:grid;
 
 
 }

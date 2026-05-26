@@ -146,9 +146,15 @@ background-color: #ab1111;
 
 
 
+.float-container h3 {
+
+font-family: "Lucida Console", "Courier New", monospace;
+float: right;
+
+}
 
 .float-container img {
-    float: left; /* Прижимает картинку к левому краю */
+  float: left; /* Прижимает картинку к левому краю */
   margin-right: 5px; /* Отступ справа от текста */
   margin-bottom: 10px; /* Отступ снизу (если текст перейдет на новую строку) */
   width: auto;

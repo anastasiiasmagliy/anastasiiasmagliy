@@ -77,14 +77,21 @@
   color: rgb(0, 0, 0);
 }
 
-  table, th, td {
+
+.table td {
   border: 1px solid;
   border-color: #4a5759;
   color: #000000;
-text-align:inherit;
+text-align:start;
 padding: 10px;
 background-color:#f7e1d7;
  border-collapse: collapse;
+
+}
+
+.table th {
+
+text-align:center;
 
 }
 

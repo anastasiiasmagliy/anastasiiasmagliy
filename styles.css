@@ -145,14 +145,6 @@ background-color: #ab1111;
 }*/
 
 
-
-.float-container h3 {
-
-float: right;
-text-align: center;
-
-}
-
 .float-container img {
   float: left; 
   width: 200px;
@@ -178,9 +170,16 @@ text-align: center;
 rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
 rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
 
+.float-container h3{
+    color: #111;
+    font-size: 2em;
+    font-weight: 900;
+    padding: 0 0 15px 0;
+  }
+  
 .footer {
 
-  margin: 50px;
   background-color: #a33502;
+  text-align: center;
 
 }

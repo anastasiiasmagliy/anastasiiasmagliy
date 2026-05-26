@@ -1,14 +1,14 @@
 
 .button-59 {
   align-items: center;
-  background-color: #fff;
+  background-color: #df0303;
   border: 2px solid #000;
   box-sizing: border-box;
   color: #000;
   cursor: pointer;
   display: inline-flex;
   fill: #000;
-  font-family: Inter,sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 16px;
   font-weight: 600;
   height: 48px;

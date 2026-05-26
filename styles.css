@@ -1,12 +1,8 @@
-//* #menu {background-color: #dedbd2;
-  color: #4a5759;
-  text-align: center;
-  padding:50px;} *//
-
 .topnav {
   margin: 0;
   padding: 0;
   background-color: #0f0c0c;
+  float: left;
 
 }
 

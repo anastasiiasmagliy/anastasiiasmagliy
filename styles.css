@@ -95,6 +95,8 @@ text-align:center;
 padding:10px;
 background-color:#f7e1d7;
  border-collapse: collapse;
+ writing-mode: horizontal-tb;
+
 
 }
 

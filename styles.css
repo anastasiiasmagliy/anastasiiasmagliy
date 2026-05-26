@@ -129,20 +129,20 @@ display:grid;
 
 .block {
   position: absolute;
-  float:right;
 }
 
 .text_contacts {
 
 float:right;
 margin-bottom: 10px;
+display: inline;
 }
 
 .contacts_image {
 
-float:right;
+float:left;
 margin: 0px;
-right:0%;
+display: inline;
 
 }
 

@@ -7,6 +7,8 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: #dedbd2;
+  color: #4a5759;
 }
 
 ul.menu li a {

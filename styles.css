@@ -103,15 +103,12 @@ background-color:#f7e1d7;
   background-color: #f7e1d7;
    color: #000000;
   text-align: center;
-  border: 10px solid #dedbd2;
     padding: 30px;
     margin-color: #4a5759;
     font-family: "Lucida Console", "Courier New", monospace;
-    box-shadow:
-rgba(199, 15, 89, 0.48) 6px 2px 16px 0px,
-rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;
+    
 font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 16px;
+  font-size: 40px;
   padding:5px;
 }
 

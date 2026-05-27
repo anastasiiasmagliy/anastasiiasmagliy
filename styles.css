@@ -53,11 +53,8 @@ rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
 
 .topnav {
 
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-left: 50px;
-  margin-right: 0;
-  box-sizing: border-box;
+  margin: 50px;
+  width:100px;
   padding: 0;
   background-color: #f7e1d7;
   float:left;

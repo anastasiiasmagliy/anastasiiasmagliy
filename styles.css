@@ -112,6 +112,12 @@ th {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
+tr {
+
+margin-bottom: 40px;
+
+
+}
 .myHeader {
   background-color: #f7e1d7;
    color: #000000;

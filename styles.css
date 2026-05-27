@@ -99,9 +99,9 @@ background-color:#f7e1d7;
 
 }
 
-tr:nth-child(even){background-color: #f2f2f2;}
+td:nth-child(even){background-color: #f2f2f2;}
 
-tr:hover {background-color: #ddd;}
+td:hover {background-color: #ddd;}
 
 th {
   padding-top: 12px;

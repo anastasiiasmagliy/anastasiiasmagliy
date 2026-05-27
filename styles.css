@@ -143,6 +143,7 @@ rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
   margin: 30px;
   font-size: 14px;
   display: inline-block;
+  position: absolute;
   color: #ffffff;
   background-color: #f7e1d7;
    color: #000000;

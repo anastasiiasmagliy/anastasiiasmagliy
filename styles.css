@@ -101,6 +101,7 @@ td {
 background-color:#f7e1d7;
 color: #000000;
 font-size: 14px;
+text-align: start;
 }
 
 td:hover {background-color: #ffffff;}

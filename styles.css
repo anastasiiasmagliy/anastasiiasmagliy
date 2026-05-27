@@ -88,18 +88,20 @@ margin: 1px;
 
 
 table th, td {
-border: 5px solid;
+border: 1px solid;
 border-color: #4a5759;
 color: #000000;
-
 padding:10px;
-background-color:#f7e1d7;
 border-collapse: collapse;
+margin-bottom: auto;
+}
+
+td {
+
+background-color:#f7e1d7;
 
 
 }
-
-
 
 td:hover {background-color: #11d51b;}
 

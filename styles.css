@@ -91,7 +91,6 @@ margin: 1px;
 table th, td {
 border: 1px solid;
 border-color: #4a5759;
-color: #000000;
 padding:10px;
 border-collapse: collapse;
 margin-bottom: 40px; 
@@ -100,7 +99,7 @@ margin-bottom: 40px;
 td {
 
 background-color:#f7e1d7;
-
+color: #000000;
 }
 
 td:hover {background-color: #ffffff;}

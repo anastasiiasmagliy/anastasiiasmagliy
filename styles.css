@@ -88,20 +88,21 @@ margin: 1px;
 
 
 table th, td {
-  border: 1px solid;
+  border: 5px solid;
   border-color: #4a5759;
   color: #000000;
-text-align:center;
+text-align:right;
 padding:10px;
 background-color:#f7e1d7;
  border-collapse: collapse;
  writing-mode: horizontal-tb;
+ margin-bottom: 40px;
 
 }
 
-td:nth-child(even){background-color: #f2f2f2;}
+td:nth-child(even){background-color: #e01010;}
 
-td:hover {background-color: #ddd;}
+td:hover {background-color: #11d51b;}
 
 th {
   padding-top: 12px;

@@ -112,14 +112,10 @@ th {
   color:#a90505;
   writing-mode: horizontal-tb;
   font-family: "Lucida Console", "Courier New", monospace;
+  margin-bottom: 100%;
 }
 
-tr {
 
-margin: 40%;
-
-
-}
 .myHeader {
   background-color: #f7e1d7;
    color: #000000;

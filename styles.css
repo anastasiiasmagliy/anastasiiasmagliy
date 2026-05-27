@@ -89,7 +89,6 @@ border-radius: 12px;
 .topnav a.active {
   background-color: #ffffff;
   color: rgb(0, 0, 0);
-  border: #000000 2px;
 }
 
 

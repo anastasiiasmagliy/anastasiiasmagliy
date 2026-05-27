@@ -3,7 +3,7 @@
 .button-59 {
   position: absolute;
   top: 300px; 
-  left: 30px;
+  left: 50px;
   margin-top: 50px;
   z-index: 1; 
   align-items: center;
@@ -19,7 +19,7 @@
   padding: 10px 20px;
   justify-content: center;
   line-height: 12px;
-  min-width: 80px;
+  min-width: 100px;
   outline: 0;
   text-align: center;
   text-decoration: none;

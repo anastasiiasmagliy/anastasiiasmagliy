@@ -93,12 +93,12 @@ border-color: #4a5759;
 color: #000000;
 padding:10px;
 border-collapse: collapse;
+margin-bottom: 40px; 
 }
 
 td {
 
 background-color:#f7e1d7;
-margin-bottom: 200 px;
 
 }
 
@@ -109,7 +109,7 @@ th {
   background-color: #04AA6D;
   color: white;
   writing-mode: horizontal-tb;
-  margin-bottom: 200px;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .myHeader {

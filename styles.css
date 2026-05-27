@@ -238,7 +238,7 @@ body {
 margin-bottom: 40px; 
 }
 
-body {+
-max-width: 100%;
+body {
+width: 100%;
 
 }

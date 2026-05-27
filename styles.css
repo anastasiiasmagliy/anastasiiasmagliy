@@ -91,7 +91,7 @@ margin: 1px;
 table th, td {
 border: 1px solid;
 border-color: #4a5759;
-padding:10px;
+
 border-collapse: collapse;
 margin-bottom: 40px; 
 }
@@ -101,13 +101,14 @@ td {
 background-color:#f7e1d7;
 color: #000000;
 font-size: 14px;
-text-align: start;
+text-align: left;
 }
 
 td:hover {background-color: #ffffff;}
 th:hover {background-color: #a90505; color:#ffffff}
 
 th {
+  padding:10px;
   text-align: center;
   background-color: #ffffff;
   color:#a90505;

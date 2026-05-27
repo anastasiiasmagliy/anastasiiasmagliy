@@ -3,7 +3,7 @@
 .button-59 {
   position: absolute;
   top: 300px; 
-  left: 40px;
+  left: 30px;
   margin: 50px;
   z-index: 1; 
   align-items: center;
@@ -16,7 +16,7 @@
   fill: none;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 16px;
-  padding: 12px 70px;
+  padding: 10px 60px;
   justify-content: center;
   line-height: 24px;
   min-width: 140px;

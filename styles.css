@@ -104,19 +104,19 @@ background-color:#f7e1d7;
 }
 
 td:hover {background-color: #ffffff;}
-th:hover {background-color: #f90e0e;}
+th:hover {background-color: #f90e0e; color:#ffffff}
 
 th {
   text-align: center;
-  background-color: #04AA6D;
-  color: white;
+  background-color: #ffffff;
+  color:#a90505;
   writing-mode: horizontal-tb;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 tr {
 
-margin-bottom: 40px;
+margin-bottom: 40%;
 
 
 }

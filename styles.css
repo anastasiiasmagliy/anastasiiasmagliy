@@ -103,7 +103,8 @@ background-color:#f7e1d7;
 
 }
 
-td:hover {background-color: #11d51b;}
+td:hover {background-color: #ffffff;}
+th:hover {background-color: #f90e0e;}
 
 th {
   text-align: center;

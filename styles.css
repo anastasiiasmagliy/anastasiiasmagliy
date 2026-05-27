@@ -102,7 +102,7 @@ border-collapse: collapse;
 
 td:nth-child(even){
   
-  background-color: #e01010;
+background-color: #e01010;
 text-align:center;
 }
 

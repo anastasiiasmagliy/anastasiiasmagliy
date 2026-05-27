@@ -1,9 +1,10 @@
 
 
 .button-59 {
-  display: block;
-  right: 1%; 
-  left: 5%;
+  margin: 50px;
+  padding: 0;
+  float: left;
+  position: relative;
   padding: 12px 70px;
   z-index: 1; 
   align-items: center;

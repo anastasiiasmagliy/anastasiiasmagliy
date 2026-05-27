@@ -100,6 +100,8 @@ td {
 
 background-color:#f7e1d7;
 color: #000000;
+font-family: "Lucida Console", "Courier New", monospace;
+font-size: 10px;
 }
 
 td:hover {background-color: #ffffff;}

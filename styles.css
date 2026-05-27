@@ -95,7 +95,7 @@ color: #000000;
 padding:10px;
 background-color:#f7e1d7;
 border-collapse: collapse;
-margin-bottom: 200px;
+
 
 }
 
@@ -115,6 +115,7 @@ th {
   background-color: #04AA6D;
   color: white;
   writing-mode: horizontal-tb;
+  margin-bottom: 200px;
 }
 
 .myHeader {

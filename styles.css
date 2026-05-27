@@ -58,7 +58,7 @@ rgba(237, 135, 201, 0.8) -6px -2px 16px 0px;}
   margin: 50px;
   padding: 0;
   background-color: #f7e1d7;
-  
+  float:left;
   position: relative;
   font-family: "Lucida Console", "Courier New", monospace;
 box-shadow:

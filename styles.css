@@ -140,11 +140,9 @@ rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 
 .hover-underline {
   width: 100%;
-  margin-bottom: 30px;
-  font-size: 2rem;
+  margin: 30px;
+  font-size: 14px;
   color: #ffffff;
-  position: absolute;
-  display: inline-block;
   background-color: #f7e1d7;
    color: #000000;
   text-align: center;

@@ -122,7 +122,7 @@ th {
   margin-bottom: 100%;
 }
 
-
+<!--
 .myHeader {
   background-color: #f7e1d7;
    color: #000000;
@@ -135,17 +135,17 @@ th {
 rgba(6, 204, 19, 0.48) 6px 2px 16px 0px,
 rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 }
+-->
 
-
-.myHeader.hover-underline {
+.hover-underline {
   font-size: 2rem;
   color: #ffffff;
   position: relative;
   display: inline-block;
 }
 
-.myHeader.hover-underline::after,
-.myHeader.hover-underline::before {
+.hover-underline::after,
+.hover-underline::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -158,13 +158,13 @@ rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
   transition: transform 0.4s ease-out;
 }
 
-.myHeader.hover-underline::before {
+.hover-underline::before {
   top: -5px;
   transform-origin: left;
 }
 
-.myHeader.hover-underline:hover::after,
-.myHeader.hover-underline:hover::before {
+.hover-underline:hover::after,
+.hover-underline:hover::before {
   transform: scaleX(1);
 }
 
